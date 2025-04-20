@@ -28,8 +28,7 @@ include "emu8086.inc" ;thu vien co san trong emu8086
      tb5 db 'BAM SPACE DE BAT DAU LAI $'
      tb6 db 'BAM ENTER DE KET THUC$'
      tb7 db 'BAM PHIM BAT KY DE BAT DAU$'
-     tb8 db '==KTMT-NHOM 07==$'
-     tb9 db '*BMI(Body mass index) la chi so dang tin cay ve do map om cua mot nguoi*$'
+
      
      w dw ?
      h dw ?
